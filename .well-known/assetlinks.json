@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.haryop.android.bestapp",
+    "sha256_cert_fingerprints":
+    ["D1:BA:B5:77:84:EE:76:62:37:BD:B6:E7:51:FB:C4:BD:92:52:DE:4D:A5:4E:2C:90:D3:B5:A2:FB:A2:90:3B:F8"]
+  }
+}]
